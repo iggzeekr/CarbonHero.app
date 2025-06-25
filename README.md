@@ -1,6 +1,6 @@
 # Carbon Hero Upload
 
-Bu proje, karbon ayak izini takip eden bir mobil uygulama ve backend API'sini içerir.
+Bu proje, karbon ayak izini takip eden Collabrative Filtering ve Random Forest algoritmalarıyla geliştirilmiş model sayesinde hesaplamaları ve önerileri sunan  mobil uygulamadır.
 
 ## 🚀 Kurulum
 
@@ -42,13 +42,7 @@ FIREBASE_CLIENT_EMAIL=your-client-email
 - Karbon ayak izi hesaplama
 - Veri görselleştirme
 - AI destekli öneriler
+- Challenge önerileri
+- Oyunlaştırma
 
-## 🤝 Katkıda Bulunma
-1. Fork yapın
-2. Feature branch oluşturun
-3. Commit yapın
-4. Push yapın
-5. Pull Request açın
-
-## 📄 Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. 
+![Screenshot 2025-06-15 230915](https://github.com/user-attachments/assets/e95abf9e-9d9d-4987-b3d6-a19465722953)
