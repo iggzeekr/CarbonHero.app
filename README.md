@@ -1,4 +1,4 @@
-# Carbon Hero Upload
+# Carbon Hero 
 
 Bu proje, karbon ayak izini takip eden Collabrative Filtering ve Random Forest algoritmalarıyla geliştirilmiş model sayesinde hesaplamaları ve önerileri sunan  mobil uygulamadır.
 
@@ -46,3 +46,4 @@ FIREBASE_CLIENT_EMAIL=your-client-email
 - Oyunlaştırma
 
 ![Screenshot 2025-06-15 230915](https://github.com/user-attachments/assets/e95abf9e-9d9d-4987-b3d6-a19465722953)
+
